@@ -1,26 +1,26 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "South Indian"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "North Indian"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Chinease"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Beverages"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Breakfast"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Pizza"
   }
 ]
